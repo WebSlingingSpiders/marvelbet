@@ -1,13 +1,40 @@
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+}
+
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Tahoma, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif !important;
+  width: 100%;
+  height: 100%;
+  overflow: overlay;
+  overflow-x: hidden;
+  background: #222;
+  color: #ffffff;
+  line-height: 20px;
+}
+
+.main-try {
+  min-height: 100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+li,
+ul {
+  list-style: none;
+}
+
+a {
+  display: inline-block;
+  outline: 0;
+  background-color: transparent;
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
 }
