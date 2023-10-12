@@ -99,4 +99,44 @@
     background: url(/src/assets/img/marquee-w.svg)no-repeat center/contain;
 }
 
+
+.post .marquee,
+.post a {
+    color: rgba(255, 255, 255, .8);
+}
+
+.post .marquee {
+    width: 73.125rem;
+    height: 100%;
+    margin-left: 1.875rem;
+    overflow: hidden;
+}
+
+
+.post .marquee,
+.post .post-icon {
+    font-size: 14px;
+    line-height: 20px;
+    display: inline-block;
+    line-height: 1.875rem;
+}
+
+
+.post .marquee ul {
+    display: flex;
+    flex-direction: row;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+}
+
+.post .marquee ul li {
+    padding-right: 1.25rem;
+}
+
+.post .marquee ul p {
+    display: inline-block;
+    white-space: nowrap;
+}
+
 /* below hero marquee end */

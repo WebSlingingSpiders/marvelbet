@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { icon } from "@fortawesome/fontawesome-svg-core/import.macro";
 import hero1 from "../../assets/img/hero1.jpg";
 import hero2 from "../../assets/img/hero2.png";
@@ -41,8 +41,11 @@ const Hero = () => {
         ))}
       </Swiper>
       <div class="post">
-        <div class="post-icon"></div>
-        <FontAwesomeIcon icon="fa-solid fa-volume-high" />
+        <div class="post-icon">
+          {" "}
+          <i class="fa-solid fa-volume-high"></i>
+        </div>
+
         <div class="marquee" id="marqueeRun">
           <ul
             id="main_runngin_msg_container"
