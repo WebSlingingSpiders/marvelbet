@@ -62,6 +62,7 @@
 
 .hero-banner {
     height: auto;
+    z-index: 0;
 }
 
 
@@ -79,7 +80,8 @@
 
 .post .post-icon {
     position: absolute;
-    padding-left: 1.5625rem;
+    left: 275px;
+    /* padding-left: -5.5625rem; */
     color: #f2f2f2;
 }
 
@@ -106,7 +108,7 @@
 }
 
 .post .marquee {
-    width: 73.125rem;
+    /* width: 73.125rem; */
     height: 100%;
     margin-left: 1.875rem;
     overflow: hidden;
@@ -127,7 +129,7 @@
     flex-direction: row;
     width: -webkit-fit-content;
     width: -moz-fit-content;
-    width: fit-content;
+    /* width: fit-content; */
 }
 
 .post .marquee ul li {
@@ -139,4 +141,148 @@
     white-space: nowrap;
 }
 
+
+.marquee {
+    z-index: 10;
+    white-space: nowrap;
+    overflow: auto;
+    box-sizing: border-box;
+    animation: marquee 25s linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(100%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
 /* below hero marquee end */
+
+
+/* Favorite */
+.main-wrap-sport {
+    padding: -21px;
+    position: relative;
+    background: #ad0e14;
+}
+
+
+.card-imgs{
+    padding: -2px;
+    /* height: 10%; */
+    /* background-position: ; */
+    background-size: cover;
+}
+
+.main-wrap-hotsport,
+.main-wrap-iframe,
+.main-wrap-slotgame,
+.main-wrap-sport {
+    margin-bottom: 0.75rem;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+
+
+/* .main-wrap,
+.main-wrap-casino,
+.main-wrap-hotsport,
+.main-wrap-iframe,
+.main-wrap-slotgame,
+.main-wrap-sport {
+    width: 594px;
+    height: 24.5rem;
+    border-top: 1px solid rgba(236, 28, 35, .7);
+    background: no-repeat center;
+} */
+
+.favorites h3 {
+    font-size: 15px;
+    line-height: 20px;
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    height: 3.125rem;
+    /* padding-left: 1.25rem; */
+    color: #fff;
+    line-height: 3.125rem;
+}
+
+
+.main-wrap-sport .sport-event,
+.main-wrap-sport .sport-event .slides {
+    height: 21.375rem;
+    overflow: hidden;
+}
+
+.main-wrap-sport .sport-event {
+    position: relative;
+    z-index: 2;
+    width: 100%;
+}
+
+.navigation-1,
+.navigation-2 {
+    position: absolute;
+    z-index: 1;
+    top: 1.1875rem;
+    width: 100%;
+}
+
+.navigation-1::before,
+.navigation-2::before {
+    top: -1.1875rem;
+    right: 2.25rem;
+    width: 1px;
+    height: 24.5rem;
+    opacity: .1;
+    background: #fff;
+}
+
+.navigation-1::before {
+    content: "";
+    display: inline-block;
+    position: absolute;
+}
+
+.content .container-1200 {
+    display: inline-block;
+    width: 75rem;
+    text-align: left;
+}
+
+.navigation-1 a,
+.navigation-2 a {
+    width: 0.9375rem;
+    height: 0.625rem;
+    margin-right: 0.9375rem;
+    transition: transform .5s cubic-bezier(.03, .98, .52, .99) .1s, background-position .3s;
+    transition: transform .5s cubic-bezier(.03, .98, .52, .99) .1s, background-position .3s, -webkit-transform .5s cubic-bezier(.03, .98, .52, .99) .1s;
+    background: no-repeat center;
+    /* background-image: url(/images/v1/web/mb/icon-set/sport/sport-arrow.png); */
+    background-position: 0 center;
+    background-size: cover;
+}
+
+
+
+.main-wrap-sport .sport-event .slides {
+    height: 21.375rem;
+    overflow: hidden;
+}
+
+/* .main-wrap-sport .sport-event .slick-list, */
+.main-wrap-sport .sport-event .slick-track {
+    height: 100%;
+}
+
+.icon-direction{
+    cursor: pointer;
+}
+
+/* Favorite end */

@@ -30,7 +30,7 @@ const Header = () => {
   }, []);
 
   return (
-    <div className="hero-wrapper">
+    <div className="hero-wrapper ">
       <div className="container d-flex align-items-center">
         <div className="header_inner py-1">(GMT +8) {currentTime}</div>
         <div

@@ -9,6 +9,8 @@ import Home from "./pages/Home";
 
 import '../src/styles/header.css'
 import '../src/styles/home.css'
+import '../src/styles/footer.css'
+import '../src/styles/fixed.css'
 
 function App() {
   return (
