@@ -5,70 +5,80 @@ const MarvelBet = () => {
     <section className="section-iccwin my-5">
       <div className="container ">
         <h2>
-          Welcome to ICCWIN: Bangladesh's Official Destination for Sports
-          Betting and Online Casino Fun
+          Welcome to MarvelBet - Your Ultimate Destination for Thrilling Sports
+          Betting and Live Casino Action in India
         </h2>
         <p>
-          Register with us today and kickstart your online gaming journey with
-          an exciting 1800 BDT WELCOME BONUS! Whether you're a sports enthusiast
-          or a casino lover, ICCWIN has something for everyone. From sports
-          betting to live betting, from thrilling casino games to live casino
-          action, and even lotteries, we've got it all covered.
+          Welcome to MarvelBet, your one-stop destination for a thrilling and
+          unique online betting and gaming experience in India. At MarvelBet, we
+          pride ourselves on being India's premier platform for live cricket
+          betting and live casino games. Whether you're a sports enthusiast or a
+          casino gaming aficionado, MarvelBet offers an unparalleled range of
+          betting options and casino games that guarantee endless excitement and
+          the chance to win big.
         </p>
-        <h2>Sports Betting</h2>
+
         <p>
-          At ICCWIN, we bring you the thrill of sports betting like never
-          before. Bet on your favorite sports events, including cricket,
-          football, basketball, and more. Our user-friendly platform ensures a
-          seamless betting experience, with competitive odds and a wide range of
-          betting options to choose from.
+          MarvelBet understands the passion of Cricket and offers you the
+          opportunity to elevate your cricket experience by placing bets on live
+          matches. Our platform covers all major cricket events, including IPL,
+          international tournaments, and domestic leagues. You can enjoy live
+          betting with competitive odds and a wide array of betting options that
+          cater to both beginners and seasoned bettors.
         </p>
-        <h2>Live Betting</h2>
+
         <p>
-          For the ultimate adrenaline rush, dive into live betting at ICCWIN.
-          Experience the excitement of placing bets in real-time as the game
-          unfolds. Our live betting platform offers a dynamic and interactive
-          way to wager on your preferred sports events.
+          MarvelBet doesn't stop at cricket. We offer a comprehensive sportsbook
+          that covers a wide range of sports, including tennis, basketball,
+          football, badminton, kabaddi, and many more. Whether you're a fan of
+          traditional sports or looking to explore new avenues, our sportsbook
+          provides a platform to test your sports knowledge and win big with
+          attractive odds.
         </p>
-        <h2>Casino</h2>
+
         <p>
-          Step into our virtual casino and explore a world of endless
-          possibilities. ICCWIN offers a vast selection of casino games,
-          including classics like blackjack, roulette, and poker. Our
-          state-of-the-art gaming software ensures fair play and thrilling
-          graphics to enhance your gaming experience.
+          We know the role of competitive odds in sports betting. At MarvelBet,
+          we work tirelessly to ensure that our users get the best possible
+          odds, maximizing their potential winnings. With our user-friendly
+          interface and real-time odds updates, you can make informed decisions
+          and enhance your sports betting experience.
         </p>
-        <h2>Live Casino</h2>
+
         <p>
-          Immerse yourself in the world of live casino gaming at ICCWIN.
-          Interact with live dealers and other players while enjoying games like
-          baccarat, blackjack, and roulette. With our 50% welcome bonus on live
-          casino games, you'll have even more reasons to play and win.
+          If casino games are your passion, MarvelBet offers a state-of-the-art
+          live casino experience. Enjoy a wide variety of classic and modern
+          casino games, including slots, arcade games, fishing, table games, and
+          lotteries, all brought to life with stunning graphics and seamless
+          gameplay. Our live casino features professional dealers and real-time
+          interaction, providing the most authentic casino experience from the
+          comfort of your home.
         </p>
-        <h2>Lotteries</h2>
+
         <p>
-          Feeling lucky? ICCWIN offers a variety of lotteries that give you the
-          chance to win big. Participate in our exciting lottery draws and
-          experience the thrill of hitting the jackpot.
+          At MarvelBet, we prioritize the safety and security of our users. We
+          employ the latest encryption technology to safeguard your personal and
+          financial information, ensuring a worry-free gaming experience. Rest
+          assured that your data is in safe hands, allowing you to focus on the
+          excitement of betting and gaming.
         </p>
-        <h2>Bonuses and Promotions</h2>
+
         <p>
-          We believe in rewarding our players generously. When you deposit 500
-          BDT, you'll receive a remarkable 1500 BDT bonus, giving you more bang
-          for your buck. But that's not all – we offer a 50% welcome bonus on
-          live casino games and a 100% welcome bonus on slots. Plus, with our
-          unlimited referral bonus and 10% daily reload bonus on live casino
-          games, the opportunities to boost your winnings are endless.
+          We know that worries and queries can arise at any time. That's why
+          MarvelBet offers 24/7 customer support to assist you with any queries
+          or issues you may encounter. Our dedicated support team is always
+          ready to provide prompt and reliable assistance, ensuring a smooth and
+          enjoyable experience for all our users.
         </p>
-        <h2>Safety and Security</h2>
+
         <p>
-          At ICCWIN, we hold your safety and security in the highest regard. We
-          employ cutting-edge encryption technology to safeguard your personal
-          and financial data, guaranteeing its utmost confidentiality. Our
-          platform operates under strict licensing and regulation, creating a
-          secure and equitable gaming atmosphere for your peace of mind.
+          MarvelBet invites you to embark on an exhilarating journey into the
+          world of live cricket betting and casino gaming. Whether you're a
+          seasoned bettor or new to the world of online gaming, our platform
+          caters to all levels of experience. With competitive odds, a diverse
+          range of sports, and a thrilling live casino, MarvelBet is your ticket
+          to winning big and having an unforgettable gaming experience.
         </p>
-        <h2>Customer Support</h2>
+
         <p>
           We acknowledge that you might have inquiries or apprehensions during
           your ICCWIN gaming experience. Our committed customer support squad is
@@ -77,15 +87,8 @@ const MarvelBet = () => {
           and we will be delighted to provide you with assistance and guidance.
         </p>
         <p>
-          Join the ICCWIN community today and unlock a world of gaming
-          excitement. Our user-friendly platform, top-notch security, and
-          unmatched variety of games make us the ultimate destination for online
-          gaming in Bangladesh.
-        </p>
-        <p>
-          Don't miss out on the action – sign up now and start winning with
-          ICCWIN! Your journey to thrilling sports betting and casino adventures
-          begins here.
+          Don't miss out on the action. Join MarvelBet today and let the games
+          begin!
         </p>
       </div>
     </section>
