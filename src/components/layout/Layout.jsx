@@ -7,6 +7,7 @@ import Chatbot from "../header/Chatbot";
 const Layout = () => {
   return (
     <div>
+      
       <Header /> <FixedNav />
       <Chatbot />
       <Outlet />

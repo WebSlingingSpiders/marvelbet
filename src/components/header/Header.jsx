@@ -94,9 +94,9 @@ const Header = () => {
                     >
                       <a
                         class="nav-promotion nav-link-hover text-decoration-none text-capitalize w-100 "
-                        href="/"
+                        href={item.link}
                       >
-                        {item}
+                        {item.label}
                       </a>
                       <span className="border-nav"></span>
                     </li>

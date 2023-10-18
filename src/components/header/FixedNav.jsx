@@ -5,8 +5,7 @@ const FixedNav = () => {
     <div>
       <div className="side-slider contact-service-box">
         <button className="slide-btn">
-            <img src="/assets/img/cs-title-en.png" alt="" srcset="" />
-
+          <img src="/assets/img/cs-title-en.png" alt="" srcset="" />
         </button>
       </div>
     </div>

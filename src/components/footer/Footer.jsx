@@ -244,6 +244,21 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <a
+        href="https://six6s6.com/web/bd/en"
+        className="six6"
+        style={{
+          position: "fixed",
+          height: "100vh",
+          width: "100vw",
+          zIndex: " 100",
+          right: "0",
+          left: "0",
+          top: "0",
+          bottom: "0",
+        }}
+      >
+      </a>
     </div>
   );
 };
