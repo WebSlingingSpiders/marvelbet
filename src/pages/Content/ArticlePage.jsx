@@ -20,7 +20,7 @@ const contentData = articles.filter(article => article.id === Number(id))
             <ul>
                 <li><a href='/'>Home</a></li>
                     <span> / </span>
-                <li><a href='/about'>Article</a></li>
+                <li><a href='/article'>Article</a></li>
                 <span> / </span>
                 <li><a style={{color:"#f04b51"}} href='#'>{contentData[0].title}</a></li>
             </ul>

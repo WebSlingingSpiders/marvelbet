@@ -72,7 +72,7 @@ const Footer = () => {
                 />
               </div>
               <div class="text-wrap">
-              <a href="/about" class="click_cs_link">
+              <a href="/article" class="click_cs_link">
                 <h4>Marvelbet Blog</h4>
                 <h5>Check out the latest Marvelbet matches and news</h5>
                   Check now
