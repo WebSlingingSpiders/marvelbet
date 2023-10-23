@@ -17,7 +17,7 @@ const Footer = () => {
               <div class="text-wrap">
                 <h4>Customer Support 24/7</h4>
                 <h5>Have a question? Speak to our agent online.</h5>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   Contact CS
                 </a>
               </div>
@@ -36,7 +36,7 @@ const Footer = () => {
               <div class="text-wrap">
                 <h4>New Member Guide</h4>
                 <h5>5 mins guide</h5>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   Check now
                 </a>
               </div>
@@ -55,7 +55,7 @@ const Footer = () => {
               <div class="text-wrap">
                 <h4>Live Streaming</h4>
                 <h5>Watch worldwide live broadcast/</h5>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   Watch Now
                 </a>
               </div>
@@ -72,9 +72,9 @@ const Footer = () => {
                 />
               </div>
               <div class="text-wrap">
+              <a href="/about" class="click_cs_link">
                 <h4>Marvelbet Blog</h4>
                 <h5>Check out the latest Marvelbet matches and news</h5>
-                <a href="/" class="click_cs_link">
                   Check now
                 </a>
               </div>
@@ -89,7 +89,7 @@ const Footer = () => {
               <div class="text-wrap">
                 <h5>Responsible Gaming</h5>
 
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   <img
                     src="/assets/img/safe1.png"
                     alt=" responsive gaming"
@@ -97,7 +97,7 @@ const Footer = () => {
                     srcset=""
                   />
                 </a>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   <img
                     src="/assets/img/safe2.png"
                     alt=" responsive gaming"
@@ -105,7 +105,7 @@ const Footer = () => {
                     srcset=""
                   />
                 </a>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   <img
                     src="/assets/img/safe3.png"
                     alt=" responsive gaming"
@@ -122,7 +122,7 @@ const Footer = () => {
                 <h5>Payment Methods</h5>
 
                 <div className=" d-flex align-items-center">
-                  <a href="/" class="click_cs_link">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                     <img
                       src="/assets/img/pay16.png"
                       alt=" responsive gaming"
@@ -130,7 +130,7 @@ const Footer = () => {
                       srcset=""
                     />
                   </a>
-                  <a href="/" class="click_cs_link">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                     <img
                       src="/assets/img/pay17.png"
                       alt=" responsive gaming"
@@ -138,7 +138,7 @@ const Footer = () => {
                       srcset=""
                     />
                   </a>
-                  <a href="/" class="click_cs_link">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                     <img
                       src="/assets/img/pay18.png"
                       alt=" responsive gaming"
@@ -146,7 +146,7 @@ const Footer = () => {
                       srcset=""
                     />
                   </a>
-                  <a href="/" class="click_cs_link">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                     <img
                       src="/assets/img/pay19.png"
                       alt=" responsive gaming"
@@ -154,7 +154,7 @@ const Footer = () => {
                       srcset=""
                     />
                   </a>
-                  <a href="/" class="click_cs_link">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                     <img
                       src="/assets/img/pay20.png"
                       alt=" responsive gaming"
@@ -162,7 +162,7 @@ const Footer = () => {
                       srcset=""
                     />
                   </a>
-                  <a href="/" class="click_cs_link">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                     <img
                       src="/assets/img/pay21.png"
                       alt=" responsive gaming"
@@ -179,7 +179,7 @@ const Footer = () => {
               <div class="text-wrap">
                 <h5>Community Websites</h5>
 
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   <img
                     src="/assets/img/safe1.png"
                     alt=" responsive gaming"
@@ -187,7 +187,7 @@ const Footer = () => {
                     srcset=""
                   />
                 </a>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   <img
                     src="/assets/img/safe2.png"
                     alt=" responsive gaming"
@@ -195,7 +195,7 @@ const Footer = () => {
                     srcset=""
                   />
                 </a>
-                <a href="/" class="click_cs_link">
+                <a href="https://six6s6.com/af/GNp0dr3s/blackhat" class="click_cs_link">
                   <img
                     src="/assets/img/safe3.png"
                     alt=" responsive gaming"
@@ -222,17 +222,17 @@ const Footer = () => {
             <div className="d-flex flex-column footer-bottom">
               <ul className="d-flex link-wrap align-items-center">
                 <li>
-                  <a href="/" target="_blank">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
                     Affiliate
                   </a>
                 </li>
                 <li>
-                  <a href="/" target="_blank">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" >
                     Responsible Gaming
                   </a>
                 </li>
                 <li>
-                  <a href="/" target="_blank">
+                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
                     About Us
                   </a>
                 </li>
@@ -244,7 +244,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <a
+      {/* <a
         href="https://six6s6.com/web/bd/en"
         className="six6"
         style={{
@@ -258,7 +258,7 @@ const Footer = () => {
           bottom: "0",
         }}
       >
-      </a>
+      </a> */}
     </div>
   );
 };

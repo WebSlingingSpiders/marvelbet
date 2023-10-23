@@ -1,0 +1,47 @@
+.container p{
+    font-size: 22px;
+    line-height: 2;
+}
+
+.breadcrumbs {
+
+    position:"relative";
+    text-align: left;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.breadcrumbs ul{
+
+    padding:0px;
+}
+
+.breadcrumbs a{
+
+    color:rgb(238, 238, 241);
+    font-family: "Roboto",sans-serif;
+}
+
+.breadcrumbs li {
+    display: inline-block;
+    text-align: left;
+}
+
+.breadcrumbs span {
+    color:rgb(238, 238, 241);
+}
+
+
+.content h1 {
+
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+.content h2 {
+
+    font-size: 40px;
+    font-weight: 600;
+
+}

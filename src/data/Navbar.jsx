@@ -1,10 +1,10 @@
 export const navMenu = [
-  { label: "Sports", link: "/about-us" },
-  { label: "Casino", link: "/about-us" },
-  { label: "Slot", link: "/about-us" },
-  { label: "Arcade", link: "/about-us" },
-  { label: "Fishing", link: "/about-us" },
-  { label: "Table", link: "/about-us" },
-  { label: "Lottery", link: "/about-us" },
-  { label: "Promotions", link: "/about-us" },
+  { label: "Sports", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Casino", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Slot", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Arcade", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Fishing", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Table", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Lottery", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
+  { label: "Promotions", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
 ];

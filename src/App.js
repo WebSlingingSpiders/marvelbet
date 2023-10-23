@@ -12,6 +12,8 @@ import '../src/styles/home.css'
 import '../src/styles/footer.css'
 import '../src/styles/fixed.css'
 import MarvelBet from "./pages/MarvelBet";
+import ArticlePage from "./pages/Content/ArticlePage";
+
 
 function App() {
   return (
@@ -20,8 +22,8 @@ function App() {
         <Routes>
           <Route element={<Layout />}>
             <Route path="/" element={<Home />} />
-            <Route path="/about-us" element={<MarvelBet/>} />
-            <Route path="*" element={<Navigate to="/" />} />
+            <Route path="/about" element={<MarvelBet/>} />
+            <Route path="/article/:slug/:id" element={<ArticlePage/>} />
           </Route>
         </Routes>
       </Router>

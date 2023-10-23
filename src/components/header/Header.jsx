@@ -46,7 +46,7 @@ const Header = () => {
       <header className="border-secondary border-top ">
         <div className="container my-3 d-flex justify-content-between">
           <div>
-            <a href="/">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
               <img
                 className="logo"
                 src="/assets/img/logo.png"
@@ -56,8 +56,20 @@ const Header = () => {
             </a>
           </div>
           <div className="d-flex align-items-center">
-            <button className="btn  btn-2nd me-3 ">Login </button>
-            <button className="btn  btn-default px-4  ">Sign Up </button>
+          
+          {/* Searchbox */}
+          <div style={{width:"250px", paddingRight:"10px"}} class="input-group mb-3">
+             
+              <input style={{marginTop:"20px", height:"35px"}} type="text" class="form-control" placeholder="Search..." aria-label="Search" aria-describedby="basic-addon2" />
+              <div class="input-group-append">
+              <a href="https://six6s6.com/af/GNp0dr3s/blackhat"><button style={{marginTop:"20px",height:"35px"}} class="btn btn-primary" type="button">Search</button> </a>
+              </div>
+             
+          </div>
+          {/* End Searchbox */}
+
+           <a href="https://six6s6.com/af/GNp0dr3s/blackhat"><button className="btn  btn-2nd me-3 ">Login </button></a>
+           <a href="https://six6s6.com/af/GNp0dr3s/blackhat"><button className="btn  btn-default px-4  ">Sign Up </button></a>
           </div>
         </div>
         <div className="main-nav">
@@ -71,7 +83,7 @@ const Header = () => {
                   >
                     <a
                       class="nav-item nav-promotion d-flex justify-content-center align-items-center text-white"
-                      href="/"
+                      href="https://six6s6.com/af/GNp0dr3s/blackhat"
                     >
                       <IoHomeSharp className="icon-header" />
                       <span className="border-nav"></span>

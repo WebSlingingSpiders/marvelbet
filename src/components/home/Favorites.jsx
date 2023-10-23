@@ -31,10 +31,12 @@ const Favorites = () => {
                 <p class="card-text">
                   <div className="d-flex justify-content-between">
                     <h3 className="">Favourites</h3>
+                    <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
                     <div className="d-flex align-items-center gap-3">
                       <BsArrowLeft className="text-black icon-direction" />{" "}
                       <BsArrowRight className="text-black icon-direction" />
                     </div>
+                    </a>
                   </div>
                 </p>
               </div>
@@ -51,10 +53,12 @@ const Favorites = () => {
                 <p class="card-text">
                   <div className="d-flex justify-content-between">
                     <h3 className="">Favourites</h3>
+                    <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
                     <div className="d-flex align-items-center gap-3">
                       <BsArrowLeft className="text-black icon-direction" />{" "}
                       <BsArrowRight className="text-black icon-direction" />
                     </div>
+                    </a>
                   </div>
                 </p>
               </div>
