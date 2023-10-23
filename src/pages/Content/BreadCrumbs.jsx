@@ -6,7 +6,7 @@ const BreadCrumbs = () => {
         <ul>
             <li><a href='/'>Home</a></li>
                 <span> / </span>
-            <li><a style={{color:"#f04b51"}} href='/about'>Article</a></li>
+            <li><a style={{color:"#f04b51"}} href='/article'>Article</a></li>
         </ul>
     </nav>
   )
