@@ -1,24 +1,24 @@
+
 .container p{
-    font-size: 22px;
+    font-size: 16px;
     line-height: 2;
+    letter-spacing: 0.6px;
 }
 
 .breadcrumbs {
 
     position:"relative";
     text-align: left;
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 16px;
+    font-weight: 600;
 }
 
 .breadcrumbs ul{
-
     padding:0px;
 }
 
 .breadcrumbs a{
 
-    color:rgb(238, 238, 241);
     font-family: "Roboto",sans-serif;
 }
 
@@ -28,20 +28,24 @@
 }
 
 .breadcrumbs span {
-    color:rgb(238, 238, 241);
+
+}
+
+.active_link {
+    color: lightcoral;
 }
 
 
 .content h1 {
 
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
 
 }
 
 .content h2 {
 
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 600;
 
 }

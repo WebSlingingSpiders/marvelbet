@@ -22,9 +22,9 @@ const MainContent = () => {
             articles.map((article,index) => {
             const slug = article.title.toLowerCase().replace(/ /g, '-')
             return (
-                <div key={index}>
+                <div class="content_article pt-4" key={index}>
                     <h2>
-                        <a href={`/article/${slug}/${article.id}`}>{article.title}</a>
+                        <a href={`/article/welcome-to-marbelbet/${article.id}`}>{article.title}</a>
                     </h2>
                     {article.content.map((content,index) => (
     
