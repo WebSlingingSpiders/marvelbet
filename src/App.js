@@ -10,7 +10,7 @@ import '../src/styles/header.css'
 import '../src/styles/home.css'
 import '../src/styles/footer.css'
 import '../src/styles/fixed.css'
-import MarvelBet from "./pages/MarvelBet";
+import WcMarvelbet from "./pages/Content/WcMarvelbet";
 import ArticlePage from "./pages/Content/ArticlePage";
 import ArticleMain from "./pages/Content/ArticleMain";
 
@@ -23,8 +23,9 @@ function App() {
           <Route element={<Layout />}>
             <Route path="/" element={<Home />} />
             <Route path="/article/" element={<ArticleMain/>} />
-            <Route path="/article/welcome-to-marbelbet" element={<MarvelBet/>} />
-            <Route path="/article/welcome-to-marbelbet/:id" element={<ArticlePage/>} />
+            <Route path="/article/welcome-to-marvelbet" element={<WcMarvelbet/>} />
+            {/* <Route path="/article/welcome-to-marbelbet" element={<MarvelBet/>} />
+            <Route path="/article/welcome-to-marbelbet/:id" element={<ArticlePage/>} /> */}
           </Route>
         </Routes>
       </Router>
