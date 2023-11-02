@@ -2,7 +2,6 @@ import React from 'react'
 import '../../styles/mainarticles.css'
 import { main_articles } from './ArticleContent';
 
-
 const ArticleMain = () => {
   return (
     <section className='text-white body-font'>
