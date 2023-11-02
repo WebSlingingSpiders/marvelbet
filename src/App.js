@@ -11,8 +11,9 @@ import '../src/styles/home.css'
 import '../src/styles/footer.css'
 import '../src/styles/fixed.css'
 import WcMarvelbet from "./pages/Content/WcMarvelbet";
-import ArticlePage from "./pages/Content/ArticlePage";
 import ArticleMain from "./pages/Content/ArticleMain";
+import CrickexBettingApp from "./pages/Content/CrickexBettingApp";
+import IrelandUltimate from "./pages/Content/IrelandUltimate";
 
 
 function App() {
@@ -24,6 +25,8 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/article/" element={<ArticleMain/>} />
             <Route path="/article/welcome-to-marvelbet" element={<WcMarvelbet/>} />
+            <Route path="/article/mobile-criket-betting" element={<CrickexBettingApp/>} />
+            <Route path="/article/ireland-ultimate-test" element={<IrelandUltimate/>} />
             {/* <Route path="/article/welcome-to-marbelbet" element={<MarvelBet/>} />
             <Route path="/article/welcome-to-marbelbet/:id" element={<ArticlePage/>} /> */}
           </Route>

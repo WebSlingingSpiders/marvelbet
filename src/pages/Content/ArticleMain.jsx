@@ -22,11 +22,11 @@ const ArticleMain = () => {
                 <div class="p-4 md:w-1/3" key={index}>
                     <div class="h-full border-2 border-gray-200 border-opacity-08 rounded-lg overflow-hidden">
                         <a href={`/article/${main_article.slug}`}>
-                            <img class="lg:h-52 md:h-36 w-full bg-cover object-center" src={main_article.img} alt="blog" />
+                            <img classname="lg:h-52 md:h-36 w-full bg-cover object-center" src={main_article.img} alt="blog" />
                         </a>
                         <div class="p-6">
                             <h2 class="tracking-widest text-xs title-font font-medium text-gray-400 mb-1">JeetWin Guide | {main_article.date}</h2>
-                            <h1 class="title-font text-lg font-medium text-white mb-3">{main_article.sub_title}</h1>
+                            <h1 class="title-font text-2xl font-semibold text-white mb-3">{main_article.sub_title}</h1>
                             {main_article.content.map((content,index) => (
                                     <p class="leading-relaxed mb-3" key={index}>{content}</p>
                             ))} 

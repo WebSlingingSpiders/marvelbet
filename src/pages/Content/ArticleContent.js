@@ -14,22 +14,22 @@ export const main_articles = [
         id: 2,
         slug: 'mobile-criket-betting',
         img: '/assets/article.jpeg',
-        sub_title: "Mobile Cricket Betting",
-        full_title: "Mobile Cricket Betting Players Don’t Miss Out! These 7 Mobile Phones Can Help You Make Money and Get Rich!",
+        sub_title: "This cricket betting app is getting men all over Asia excited, and its name is Baji999!",
+        full_title: "",
         date: "October 27, 2023",
         content: [
-            "Are you a gambler who heavily uses mobile phones to bet on cricket matches? Then, you must be very concerned about which mobile phones can improve the experience of cricket betting! The Baji999 editorial team specially compiled the 7 most popular sports betting players Phone model.",
+            "The cricket betting trend is sweeping the world, and countless cricket betting players are looking for the best online casino because they want better promotions, gaming experience and other conditions. Now, Baji999 will tell readers how to judge an online casino app, which is worth downloading to your mobile phone.",
         ]
     },
     {
         id: 3,
-        slug: 'hat-trick',
+        slug: 'ireland-ultimate-test',
         img: '/assets/blog-img.jpeg',
-        sub_title: "Hat-Trick Heroes",
-        full_title: "Hat-Trick Heroes: Memorable Feats in ICC World Cup History",
+        sub_title: "Ireland's Ultimate Test: Can They Upset India in the 3rd T20",
+        full_title: "",
         date: "October 28, 2023",
         content: [
-            "In the captivating realm of cricket, few moments hold the allure and exhilaration of a hat-trick – that remarkable feat where a bowler claims three wickets in consecutive deliveries. The ICC Cricket World Cup, the pinnacle of the sport...",
+            "  In the exhilarating world of cricket, every match becomes a canvas for the creation of sporting legends. The clash between Ireland and India in the 3rd T20 promises nothing short of a spectacle that cricket enthusiasts worldwide are eagerly awaiting. With Andy Balbirnie&apos;s resilient 51-ball 72,..",
         ]
     },
     
