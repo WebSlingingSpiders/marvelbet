@@ -47,8 +47,8 @@ function App() {
               element={<Batters />}
             />
             <Route
-              path="/article/Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the -Dinal"
-              element={<BreakingDown/>}
+              path="/article/Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the-Final"
+              element={<BreakingDown />}
             />
             {/* <Route path="/article/welcome-to-marbelbet" element={<MarvelBet/>} />
             <Route path="/article/welcome-to-marbelbet/:id" element={<ArticlePage/>} /> */}

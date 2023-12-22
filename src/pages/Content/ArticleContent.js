@@ -58,7 +58,7 @@ export const main_articles = [
   },
   {
     id: 6,
-    slug: "Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the -Dinal",
+    slug: "Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the-Final",
     img: "/assets/image11-658548cb8c55c.webp",
     sub_title:
       "Breaking Down Billings' Unbeaten 76 in the Invincibles' Path to the Final",
