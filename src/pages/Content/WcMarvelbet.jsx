@@ -13,11 +13,11 @@ const WcMarvelbet = () => {
             Your Ultimate Destination for Thrilling Sports Betting and Live
             Casino Action in India
           </h1>
-          <img
+          {/* <img
             className="mb-2 w-[100%] md:h-[400px] object-contain"
             alt="casino"
             src="/assets/hero7.jpg"
-          />
+          /> */}
           <p className="text-center py-3">
             Welcome to MarvelBet, your one-stop destination for a thrilling and
             unique online betting and gaming experience in India. At MarvelBet,
@@ -27,11 +27,10 @@ const WcMarvelbet = () => {
             unparalleled range of betting options and casino games that
             guarantee endless excitement and the chance to win big.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          {/* <h3 className="text-3xl pt-3">
             Elevate Your Cricket Experience with MarvelBet's Live Betting on
             Major Events
-          </h3>
+          </h3> */}
           <p className="py-3">
             MarvelBet understands the passion of Cricket and offers you the
             opportunity to elevate your cricket experience by placing bets on
@@ -40,11 +39,11 @@ const WcMarvelbet = () => {
             can enjoy live betting with competitive odds and a wide array of
             betting options that cater to both beginners and seasoned bettor
           </p>
-
+          {/* 
           <h3 className="text-3xl pt-3">
             Explore Diverse Sporting Opportunities with MarvelBet's
             Comprehensive Sportsbook
-          </h3>
+          </h3> */}
           <p className="py-3">
             MarvelBet doesn't stop at cricket. We offer a comprehensive
             sportsbook that covers a wide range of sports, including tennis,
@@ -53,11 +52,10 @@ const WcMarvelbet = () => {
             avenues, our sportsbook provides a platform to test your sports
             knowledge and win big with attractive odds.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          {/* <h3 className="text-3xl pt-3">
             Maximize Your Winnings with MarvelBet's Competitive Odds and
             User-Friendly Interface
-          </h3>
+          </h3> */}
           <p className="py-3">
             We know the role of competitive odds in sports betting. At
             MarvelBet, we work tirelessly to ensure that our users get the best
@@ -65,10 +63,9 @@ const WcMarvelbet = () => {
             user-friendly interface and real-time odds updates, you can make
             informed decisions and enhance your sports betting experience.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          {/* <h3 className="text-3xl pt-3">
             Immerse Yourself in MarvelBet's Cutting-Edge Live Casino Experience
-          </h3>
+          </h3> */}
           <p className="py-3">
             If casino games are your passion, MarvelBet offers a
             state-of-the-art live casino experience. Enjoy a wide variety of
@@ -78,11 +75,10 @@ const WcMarvelbet = () => {
             professional dealers and real-time interaction, providing the most
             authentic casino experience from the comfort of your home.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          {/* <h3 className="text-3xl pt-3">
             Your Security is Our Priority: MarvelBet's Cutting-Edge Data
             Encryption
-          </h3>
+          </h3> */}
           <p className="py-3">
             At MarvelBet, we prioritize the safety and security of our users. We
             employ the latest encryption technology to safeguard your personal
@@ -90,10 +86,9 @@ const WcMarvelbet = () => {
             Rest assured that your data is in safe hands, allowing you to focus
             on the excitement of betting and gaming.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          {/* <h3 className="text-3xl pt-3">
             Around-the-Clock Support: MarvelBet's Reliable Customer Assistance
-          </h3>
+          </h3> */}
           <p className="py-3">
             We know that worries and queries can arise at any time. That's why
             MarvelBet offers 24/7 customer support to assist you with any
@@ -101,11 +96,10 @@ const WcMarvelbet = () => {
             always ready to provide prompt and reliable assistance, ensuring a
             smooth and enjoyable experience for all our users.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          {/* <h3 className="text-3xl pt-3">
             Join MarvelBet for an Exciting Adventure in Cricket Betting and
             Casino Gaming
-          </h3>
+          </h3> */}
           <p className="py-3">
             MarvelBet invites you to embark on an exhilarating journey into the
             world of live cricket betting and casino gaming. Whether you're a
@@ -114,22 +108,21 @@ const WcMarvelbet = () => {
             range of sports, and a thrilling live casino, MarvelBet is your
             ticket to winning big and having an unforgettable gaming experience.
           </p>
-
-          <h3 className="text-3xl pt-3">
+          <p></p>
+          {/* <h3 className="text-3xl pt-3">
             24-7 Support: Your Reliable Partner in ICCWIN Gaming
-          </h3>
-          <p className="py-3">
+          </h3> */}
+          {/* <p className="py-3">
             We acknowledge that you might have inquiries or apprehensions during
             your ICCWIN gaming experience. Our committed customer support squad
             is at your service round the clock, ready to address any concerns or
             questions you may possess. Do not hesitate to get in touch with us,
             and we will be delighted to provide you with assistance and guidance
+          </p> */}
+          <p>
+            {" "}
             Don't miss out on the action. Join MarvelBet today and let the games
             begin!
-          </p>
-
-          <p className="pt-10 font-semibold">
-            Published Date: October 26, 2023
           </p>
         </div>
       </div>
