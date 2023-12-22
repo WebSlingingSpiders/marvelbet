@@ -1,3 +1,4 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://www.marvel365bet.com/sitemap/sitemap-index.xml
+Host: https://www.marvel365bet.com
