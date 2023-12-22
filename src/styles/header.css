@@ -2,7 +2,7 @@
     position: sticky;
     top: 0;
     z-index: 40;
-  background: #222;
+    background: #222;
 
 }
 
@@ -103,17 +103,17 @@ header .logo {
 }
 
 .main-nav .nav-item.active,
-.main-nav .nav-item:hover  {
-    color:  #f04b51;
+.main-nav .nav-item:hover {
+    color: #f04b51;
     fill: #f04b51;
     /* background: #f04b51; */
 }
 
-.main-nav .nav-item .icon-header:hover{
+.main-nav .nav-item .icon-header:hover {
     color: #f04b51;
 }
 
- a:hover {
+a:hover {
     color: #f04b51;
 }
 
@@ -132,8 +132,9 @@ header .logo {
     z-index: 40;
     background-color: #fff;
 }
+
 /* border inside of div make a 80 height */
-.border-nav{
+.border-nav {
     height: 20px;
     /* width: 80px; */
     border: 1px solid rgb(247, 247, 247);
@@ -143,4 +144,10 @@ header .logo {
     /* padding: 10px; */
     background-color: #fff;
     box-shadow: 0 0 3px rgba(9, 13, 26, .4);
+}
+
+@media only screen and (max-width: 691px) {
+    .main-nav {
+        display: none;
+    }
 }

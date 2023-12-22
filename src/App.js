@@ -15,6 +15,8 @@ import ArticleMain from "./pages/Content/ArticleMain";
 import CrickexBettingApp from "./pages/Content/CrickexBettingApp";
 import IrelandUltimate from "./pages/Content/IrelandUltimate";
 import Australia from "./pages/Content/Australia";
+import Batters from "./pages/Content/Batters";
+import BreakingDown from "./pages/Content/BreakingDown";
 
 function App() {
   return (
@@ -39,6 +41,14 @@ function App() {
             <Route
               path="/article/Australia's-Top-5-Century-Scorers-in-ODI-Cricket"
               element={<Australia />}
+            />
+            <Route
+              path="/article/Batters-Who-Has-Scored-the-Most-Runs-in-a-CPL-Season"
+              element={<Batters />}
+            />
+            <Route
+              path="/article/Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the -Dinal"
+              element={<BreakingDown/>}
             />
             {/* <Route path="/article/welcome-to-marbelbet" element={<MarvelBet/>} />
             <Route path="/article/welcome-to-marbelbet/:id" element={<ArticlePage/>} /> */}

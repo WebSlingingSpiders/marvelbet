@@ -45,4 +45,27 @@ export const main_articles = [
       "One of the most exciting aspects of One Day International (ODI) cricket is watching batsmen rack up centuries, displaying their skill, composure, and consistency in the limited-overs format. Australia, a cricketing powerhouse... ",
     ],
   },
+  {
+    id: 5,
+    slug: "Batters-Who-Has-Scored-the-Most-Runs-in-a-CPL-Season ",
+    img: "/assets/image11-658541db6160d.webp",
+    sub_title: "Batters Who Has Scored the Most Runs in a CPL Season",
+    full_title: "",
+    date: "September 20, 2023",
+    content: [
+      "The Caribbean Premier League (CPL) has been a breeding ground for exceptional cricketing talent, showcasing the prowess of players from around the world. In every season of the CPL... ",
+    ],
+  },
+  {
+    id: 6,
+    slug: "Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the -Dinal",
+    img: "/assets/image11-658548cb8c55c.webp",
+    sub_title:
+      "Breaking Down Billings' Unbeaten 76 in the Invincibles' Path to the Final",
+    full_title: "",
+    date: "September 27, 2023",
+    content: [
+      "The Caribbean Premier League (CPL) has been a breeding ground for exceptional cricketing talent, showcasing the prowess of players from around the world. In every season of the CPL... ",
+    ],
+  },
 ];
