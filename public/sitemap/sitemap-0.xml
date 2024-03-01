@@ -4,40 +4,41 @@
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
     <url>
-        <loc>https://marvel365bet.com/cricket1/</loc>
+        <loc>https://marvel365bet.com/</loc>
         <changefreq>daily</changefreq>
-        <priority>0.7</priority>
+        <priority>1</priority>
     </url>
     <url>
-        <loc>https://marvel365bet.com/cricket2/</loc>
+        <loc>https://marvel365bet.com/article/welcome-to-marvelbet</loc>
         <changefreq>daily</changefreq>
-        <priority>0.7</priority>
+        <priority>1</priority>
     </url>
     <url>
-        <loc>https://marvel365bet.com/article/ireland-ultimate-tes</loc>
+        <loc>https://marvel365bet.com/article/mobile-criket-betting</loc>
         <changefreq>daily</changefreq>
-        <priority>0.7</priority>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://marvel365bet.com/article/ireland-ultimate-test</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
     </url>
     <url>
         <loc>https://marvel365bet.com/article/Australia's-Top-5-Century-Scorers-in-ODI-Cricket</loc>
         <changefreq>daily</changefreq>
-        <priority>0.7</priority>
+        <priority>1</priority>
     </url>
     <url>
         <loc>https://marvel365bet.com/article/Batters-Who-Has-Scored-the-Most-Runs-in-a-CPL-Season</loc>
         <changefreq>daily</changefreq>
-        <priority>0.7</priority>
+        <priority>1</priority>
     </url>
     <url>
         <loc>
-            https://www.mcw88bet.com/article/Breaking-Down-Billings'-Unbeaten-76-in-the-Invincibles'-Path-to-the%20-Dinal</loc>
+            https://www.mcw88bet.com/article/Breaking-Down-Billings-Unbeaten-76-in-the-Invincibles'-Path-to-the-Final</loc>
         <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
-        <loc>https://marvel365bet.com/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
+        <priority>1</priority>
     </url>
 </urlset>

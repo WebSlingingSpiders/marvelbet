@@ -99,7 +99,7 @@ const Australia = () => {
               Australia's top five century scorers in ODI cricket and celebrate
               their remarkable achievements.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">Ricky Ponting</h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> <h2 className="text-3xl font-semibold mb-3">Ricky Ponting</h2> </a>
             <p className="mb-3">
               Ricky Ponting, undoubtedly one of the greatest Australian
               cricketers and one of the most successful ODI batters of all time,

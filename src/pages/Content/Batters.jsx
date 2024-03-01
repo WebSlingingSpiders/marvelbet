@@ -9,68 +9,56 @@ const Batters = () => {
 
         <title>Batters Who Has Scored the Most Runs in a CPL Season</title>
         <meta
-          data-react-helmet="true"
           name="description"
           content="Batters Who Has Scored the Most Runs in a CPL Season
 "
         ></meta>
         <meta
-          data-react-helmet="true"
           property="og:title"
           content="Batters Who Has Scored the Most Runs in a CPL Season
 "
         ></meta>
         <meta
-          data-react-helmet="true"
           property="og:description"
           content="Batters Who Has Scored the Most Runs in a CPL Season
 "
         ></meta>
         <meta
-          data-react-helmet="true"
           property="og:type"
           content="website"
         ></meta>
-        <meta data-react-helmet="true" name="og:locale" content="en-BD"></meta>
+        <meta name="og:locale" content="en-BD"></meta>
         <meta
-          data-react-helmet="true"
           name="og:image"
           content="https://www.marvel365bet.com/static/1-1152b446125e6fe1cdfa678efa67abd4.png"
         ></meta>
         <meta
-          data-react-helmet="true"
           property="og:url"
           content="https://marvel365bet.com"
         ></meta>
         <meta
-          data-react-helmet="true"
           property="og:site_name"
           content="MarvelBet Online Casino Betting Site in India | Batters Who Has Scored the Most Runs in a CPL Season
 "
         ></meta>
         <meta
-          data-react-helmet="true"
           property="og:description"
           content="A recommended online casino platform, what are the major features it should have? MarvelBet, the very popular gaming entertainment brand in India, will tell you. The key to winning the unanimous respect of Indian sports players and gaining the loyalty of their players is to have stable network connection quality, generous promotions of popular benefits, and fair and impartial game products."
         ></meta>
         <meta
-          data-react-helmet="true"
           name="twitter:card"
           content="summary"
         ></meta>
         <meta
-          data-react-helmet="true"
           name="twitter:creator"
           content="casinomcw"
         ></meta>
         <meta
-          data-react-helmet="true"
           name="twitter:title"
           content="Batters Who Has Scored the Most Runs in a CPL Season
 "
         ></meta>
         <meta
-          data-react-helmet="true"
           name="twitter:description"
           content="Batters Who Has Scored the Most Runs in a CPL Season
 "
@@ -82,7 +70,7 @@ const Batters = () => {
           <BreadCrumbs />
           <div className="article-content mb-5">
             {/* <h2 className="text-2xl text-center pb-2">Welcome to MarvelBet</h2> */}
-            <h1 className="text-4xl text-center font-semibold pb-3">
+            <h1 className="text-4xl text-center font-semibold py-10">
               Batters Who Has Scored the Most Runs in a CPL Season
             </h1>
             <img
@@ -99,9 +87,9 @@ const Batters = () => {
               Let's take a closer look at the batters who have scored the most
               runs in a CPL season.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Colin Munro (Trinbago Knight Riders) - 567 Runs (Season: 2018)
-            </h1>
+            <h2 className="text-3xl font-semibold mb-3">
+             <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> Colin Munro (Trinbago Knight Riders) - 567 Runs (Season: 2018) </a>
+            </h2>
             <p className="mb-3">
               Colin Munro, representing the Trinbago Knight Riders in the 2018
               season, stands at the top of the list with a staggering 567 runs.
@@ -109,9 +97,9 @@ const Batters = () => {
               explosive style of play included 54 fours and 24 sixes, making him
               one of the most feared batters in the league that year.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Brandon King (Guyana Amazon Warriors) - 496 Runs (Season: 2019)
-            </h1>
+            <h3 className="text-3xl font-semibold mb-3">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> Brandon King (Guyana Amazon Warriors) - 496 Runs (Season: 2019)</a>
+            </h3>
             <p className="mb-3">
               In the 2019 season, Brandon King of the Guyana Amazon Warriors
               made a significant impact, scoring 496 runs in just 12 matches.
@@ -120,9 +108,9 @@ const Batters = () => {
               vital asset for his team, contributing to their successful
               campaign.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Shai Hope (Guyana Amazon Warriors) - 481 Runs (Season: 2023)
-            </h1>
+            <h3 className="text-3xl font-semibold mb-3">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> Shai Hope (Guyana Amazon Warriors) - 481 Runs (Season: 2023) </a>
+            </h3>
 
             <p className="mb-3">
               Shai Hope, another Guyana Amazon Warriors player, exhibited his
@@ -132,9 +120,9 @@ const Batters = () => {
               instrumental in his team's success that year.
             </p>
 
-            <h1 className="text-3xl font-semibold mb-3">
-              Saim Ayub (Guyana Amazon Warriors) - 478 Runs (Season: 2023)
-            </h1>
+            <h3 className="text-3xl font-semibold mb-3">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> Saim Ayub (Guyana Amazon Warriors) - 478 Runs (Season: 2023)</a>
+            </h3>
 
             <p className="mb-3">
               The 2023 season witnessed another star performance by Saim Ayub,
@@ -144,9 +132,9 @@ const Batters = () => {
               in the league.
             </p>
 
-            <h1 className="text-3xl font-semibold mb-3">
-              Chadwick Walton (Guyana Amazon Warriors) - 458 Runs (Season: 2017)
-            </h1>
+            <h3 className="text-3xl font-semibold mb-3">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700">  Chadwick Walton (Guyana Amazon Warriors) - 458 Runs (Season: 2017)</a>
+            </h3>
 
             <p className="mb-3">
               In the 2017 season, Chadwick Walton made his mark, scoring 458
@@ -170,9 +158,9 @@ const Batters = () => {
             <p className="pt-10 font-semibold">
               Published Date: October 26, 2023
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Glenn Phillips (Jamaica Tallawahs) - 457 Runs (Season: 2018)
-            </h1>
+            <h3 className="text-3xl font-semibold mb-3">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700">  Glenn Phillips (Jamaica Tallawahs) - 457 Runs (Season: 2018)</a>
+            </h3>
 
             <p className="mb-3">
               Glenn Phillips, representing the Jamaica Tallawahs in 2018, had an

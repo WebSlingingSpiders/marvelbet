@@ -115,9 +115,9 @@ const IrelandUltimate = () => {
               to carve his name in the annals of cricket history.
             </p>
 
-            <p className="text-lg font-semibold">
-              India&apos;s Defensive Prowess
-            </p>
+            <h3 className="text-lg font-semibold">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> India&apos;s Defensive Prowess</a>
+            </h3>
             <p className="mb-3">
               In response to Balbirnie&apos;s brilliance, the Indian team
               orchestrated a formidable defensive strategy led by Prasidh
