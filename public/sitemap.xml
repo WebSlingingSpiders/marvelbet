@@ -10,6 +10,11 @@
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
+        <url>
+        <loc>https://marvel365bet.com/article</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
     <url>
         <loc>https://marvel365bet.com/article/welcome-to-marvelbet</loc>
         <changefreq>daily</changefreq>
@@ -41,4 +46,5 @@
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
+
 </urlset>

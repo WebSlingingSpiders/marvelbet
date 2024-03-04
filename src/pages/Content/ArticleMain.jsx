@@ -1,9 +1,34 @@
 import React from "react";
 import "../../styles/mainarticles.css";
 import { main_articles } from "./ArticleContent";
+import { Helmet } from "react-helmet";
 
 const ArticleMain = () => {
   return (
+
+<>
+      <Helmet>
+        <title>In-Depth Insights Await on MarvelBet's Betting Information Articles</title> 
+        <meta name="keywords" content="Cricket Betting Insights,Mobile Betting Tips,MarvelBet Articles,Betting Strategies,Expert Analyses"/>
+        <link rel="alternate" href="https://www.marvel365bet.com/article" hreflang="en-BD"/>
+        <link rel="canonical" href="https://www.marvel365bet.com/article"/>
+        <link rel="sitemap" type="xml" title="MarvelBet Online Cricket Bet Articles" href="https://www.marvel365bet.com/sitemap.xml"/>
+        <meta name="author" content="MarvelBet Online Cricket Bet Articles"/>
+        <meta name="copyright" content="MarvelBet Online Cricket Bet Articles 2024"/>
+        <meta property="og:locale" content="en-BD"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="In-Depth Insights Await on MarvelBet's Betting Information Articles"/>
+        <meta property="og:description" content="Dive into the realm of cricket betting mastery with MarvelBet's comprehensive betting information articles. Explore strategies, match analyses, and expert insights, ensuring you stay ahead in the dynamic world of mobile betting. Unveil the secrets to successful bets and elevate your game with MarvelBet's curated content."/>
+        <meta property="og:url" content="https://www.marvel365bet.com/article"/>
+        <meta property="og:site_name" content="Marvelbet"/>
+        <meta property="og:image" content="https://www.marvel365bet.com/assets/marvel365bet.jpeg"/>
+        <meta property="og:image:secure_url" content="https://www.marvel365bet.com/assets/marvel365bet.jpeg"/>
+        <meta property="og:image:width" content="1200"/>
+        <meta property="og:image:height" content="630"/>
+        <meta property="og:image:alt" content="MarvelBet_Betting_Information"/>
+        <meta property="og:image:type" content="image/jpeg"/>
+      </Helmet>
+
     <section className="text-white body-font">
       <div className="container content_container">
         <nav className="breadcrumbs">
@@ -71,6 +96,9 @@ const ArticleMain = () => {
         </div>
       </div>
     </section>
+    </>
+
+
   );
 };
 
