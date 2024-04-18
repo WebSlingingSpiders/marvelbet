@@ -6,6 +6,7 @@ const WcMarvelbet = () => {
   return (
     <>
       <Helmet>
+      <link rel="canonical" href="https://www.marvel365bet.com/article/welcome-to-marvelbet" />
         <title>
           Your Ultimate Destination for Thrilling Sports Betting and Live Casino
           Action in India
@@ -91,7 +92,7 @@ const WcMarvelbet = () => {
               Welcome to MarvelBet, your one-stop destination for a thrilling
               and unique online betting and gaming experience in India. At
               MarvelBet, we pride ourselves on being India's premier platform
-              for live cricket betting and live casino games. Whether you're a
+              for <a className="text-red-500" href="https://six6s6.com/bd/en/register">live cricket</a> betting and <a className="text-red-500" href="https://six6s6.com/bd/en/register">live casino</a> games. Whether you're a
               sports enthusiast or a casino gaming aficionado, MarvelBet offers
               an unparalleled range of betting options and casino games that
               guarantee endless excitement and the chance to win big.
@@ -138,10 +139,10 @@ const WcMarvelbet = () => {
           </h3> */}
             <p className="py-3">
               If casino games are your passion, MarvelBet offers a
-              state-of-the-art live casino experience. Enjoy a wide variety of
+              state-of-the-art <a className="text-red-500" href="https://six6s6.com/bd/en/register">live casino</a> experience. Enjoy a wide variety of
               classic and modern casino games, including slots, arcade games,
               fishing, table games, and lotteries, all brought to life with
-              stunning graphics and seamless gameplay. Our live casino features
+              stunning graphics and seamless gameplay. Our <a className="text-red-500" href="https://six6s6.com/bd/en/register">live casino</a> features
               professional dealers and real-time interaction, providing the most
               authentic casino experience from the comfort of your home.
             </p>
@@ -175,7 +176,7 @@ const WcMarvelbet = () => {
               the world of live cricket betting and casino gaming. Whether
               you're a seasoned bettor or new to the world of online gaming, our
               platform caters to all levels of experience. With competitive
-              odds, a diverse range of sports, and a thrilling live casino,
+              odds, a diverse range of sports, and a thrilling <a className="text-red-500" href="https://six6s6.com/bd/en/register">live casino</a>,
               MarvelBet is your ticket to winning big and having an
               unforgettable gaming experience.
             </p>

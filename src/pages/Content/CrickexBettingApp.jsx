@@ -6,6 +6,7 @@ const CrickexBettingApp = () => {
   return (
     <>
       <Helmet>
+      <link rel="canonical" href="https://www.marvel365bet.com/article/mobile-criket-betting" />
         <title>
           This cricket betting app is getting men all over Asia excited, and its
           name is Baji999!
@@ -134,21 +135,21 @@ const CrickexBettingApp = () => {
             </p>
             <div>
               Tags:
-              <a href="mobile-criket-betting" className="ml-1">
+              <a href="/article/mobile-criket-betting" className="ml-1 text-red-500">
                 Cricket betting
               </a>
               ,
-              <a href="mobile-criket-betting" className="ml-1">
+              <a href="https://six6s6.com/bd/en/register" className="ml-1 text-red-500">
                 Betting app
               </a>
               ,
-              <a href="mobile-criket-betting" className="ml-1">
+              <a href="https://six6s6.com/bd/en/register" className="ml-1 text-red-500">
                 Online casino app
               </a>
-              <a href="mobile-criket-betting" className="ml-1">
+              <a href="https://six6s6.com/bd/en/register" className="ml-1 text-red-500">
                 marvelbet cricket
               </a>
-              <a href="mobile-criket-betting" className="ml-1">
+              <a href="https://six6s6.com/bd/en/register" className="ml-1 text-red-500">
                 marvelbet casino
               </a>
             </div>

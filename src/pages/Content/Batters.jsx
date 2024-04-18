@@ -6,7 +6,7 @@ const Batters = () => {
     <>
       <Helmet>
         <link rel="icon" href="/favicon.ico" />
-
+        <link rel="canonical" href="https://www.marvel365bet.com/article/Batters-Who-Has-Scored-the-Most-Runs-in-a-CPL-Season" />
         <title>Batters Who Has Scored the Most Runs in a CPL Season</title>
         <meta
           name="description"

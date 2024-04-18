@@ -6,7 +6,7 @@ const BreakingDown = () => {
     <>
       <Helmet>
         <link rel="icon" href="/favicon.ico" />
-
+        <link rel="canonical" href="https://www.marvel365bet.com/article/Breaking-Down-Billings-Unbeaten-76-in-the-Invincibles'-Path-to-the-Final" />
         <title>
           Breaking Down Billings' Unbeaten 76 in the Invincibles' Path to the
           Final
@@ -106,9 +106,7 @@ const BreakingDown = () => {
               encounter encapsulated the very essence of sportsmanship and the
               relentless pursuit of victory.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Rediscovering Brilliance: Billings' Heroic Turnaround
-            </h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Rediscovering Brilliance: Billings' Heroic Turnaround</h3> </a>
             <p className="mb-3">
               In a tournament that had witnessed its share of ups and downs, Sam
               Billings' resolute determination proved to be the catalyst for the
@@ -118,9 +116,7 @@ const BreakingDown = () => {
               exceptional display of form and finesse rekindled hopes and
               redefined his role as a leader and a batsman.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              The Unbeaten 76: A Spectacle of Precision and Power
-            </h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">The Unbeaten 76: A Spectacle of Precision and Power</h3> </a>
             <p className="mb-3">
               The spotlight shone brightly on Billings as he strode to the
               crease, armed with unwavering determination and an unyielding
@@ -129,9 +125,7 @@ const BreakingDown = () => {
               history. Each stroke, meticulously crafted, was a testament to his
               prowess, blending precision with power in a symphony of skill.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Overcoming the Tremors: Navigating the Precarious Situation
-            </h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Overcoming the Tremors: Navigating the Precarious Situation</h3> </a>
 
             <p className="mb-3">
               As the Invincibles pursued the target set by the Rockets, a brief
@@ -143,9 +137,7 @@ const BreakingDown = () => {
               storm and forge ahead.
             </p>
 
-            <h1 className="text-3xl font-semibold mb-3">
-              Jacks' Steely Resolve: A Crucial Turning Point
-            </h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Jacks' Steely Resolve: A Crucial Turning Point</h3> </a>
 
             <p className="mb-3">
               While Billings' heroics took center stage, it was Will Jacks who
@@ -158,9 +150,8 @@ const BreakingDown = () => {
               breathtaking onslaught.
             </p>
 
-            <h1 className="text-3xl font-semibold mb-3">
-              The Commanding Onslaught: Billings' Dominance Unleashed
-            </h1>
+
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">The Commanding Onslaught: Billings' Dominance Unleashed</h3> </a>
 
             <p className="mb-3">
               As the game neared its crescendo, Sam Billings seized control of
@@ -183,9 +174,7 @@ const BreakingDown = () => {
               new talent who will carry the torch forward for Australian cricket
               in the ODI arena.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">
-              Culmination of Triumph: Billings' Unwavering Finish
-            </h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Culmination of Triumph: Billings' Unwavering Finish</h3> </a>
 
             <p className="mb-3">
               The climax of the encounter unfolded with an air of inevitability.

@@ -6,6 +6,7 @@ const IrelandUltimate = () => {
   return (
     <>
       <Helmet>
+      <link rel="canonical" href="https://www.marvel365bet.com/article/ireland-ultimate-test" />
         <title>
           Ireland&apos;s Ultimate Test: Can They Upset India in the 3rd T20
         </title>
@@ -86,14 +87,14 @@ const IrelandUltimate = () => {
               src="/assets/blog-img.jpeg"
             />
             <p className="text-center py-3">
-              The cricket betting trend is sweeping the world, and countless
+              The <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> cricket betting</a> trend is sweeping the world, and countless
               cricket betting players are looking for the best online casino
               because they want better promotions, gaming experience and other
               conditions. Now, Baji999 will tell readers how to judge an online
               casino app, which is worth downloading to your mobile phone.
             </p>
             <p className="mb-3">
-              In the exhilarating world of cricket, every match becomes a canvas
+              In the exhilarating  <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> world of cricket</a>, every match becomes a canvas
               for the creation of sporting legends. The clash between Ireland
               and India in the 3rd T20 promises nothing short of a spectacle
               that cricket enthusiasts worldwide are eagerly awaiting. With Andy

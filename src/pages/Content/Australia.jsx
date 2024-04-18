@@ -4,7 +4,10 @@ const Australia = () => {
   return (
     <>
       <Helmet>
+
         <link rel="icon" href="/favicon.ico" />
+        <link rel="canonical" href="https://www.marvel365bet.com/article/Australia's-Top-5-Century-Scorers-in-ODI-Cricket" />
+
 
         <title>Australia's Top 5 Century Scorers in ODI Cricket</title>
         <meta
@@ -99,7 +102,7 @@ const Australia = () => {
               Australia's top five century scorers in ODI cricket and celebrate
               their remarkable achievements.
             </p>
-            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> <h2 className="text-3xl font-semibold mb-3">Ricky Ponting</h2> </a>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h2 className="text-3xl font-semibold mb-3">Ricky Ponting</h2> </a>
             <p className="mb-3">
               Ricky Ponting, undoubtedly one of the greatest Australian
               cricketers and one of the most successful ODI batters of all time,
@@ -109,7 +112,7 @@ const Australia = () => {
               average of 42.04. Ponting's consistency and ability to adapt to
               various conditions make him a true legend of the game.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">David Warner</h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">David Warner</h3> </a>
             <p className="mb-3">
               David Warner, the dynamic left-handed opening batter known for his
               aggressive style of play, holds the second position on our list
@@ -120,7 +123,7 @@ const Australia = () => {
               becoming the second Australian batter after Ricky Ponting to score
               20 ODI centuries is a testament to his remarkable talent.
             </p>
-            <h1 className="text-3xl font-semibold mb-3">Mark Waugh</h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Mark Waugh</h3> </a>
 
             <p className="mb-3">
               Mark Waugh, a stylish right-handed batter who graced the
@@ -132,7 +135,7 @@ const Australia = () => {
               era.
             </p>
 
-            <h1 className="text-3xl font-semibold mb-3">Aaron Finch</h1>
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Aaron Finch</h3> </a>
 
             <p className="mb-3">
               Former Australian skipper Aaron Finch is the fourth on our list
@@ -143,8 +146,7 @@ const Australia = () => {
               starts into centuries.
             </p>
 
-            <h1 className="text-3xl font-semibold mb-3">Adam Gilchrist</h1>
-
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="text-red-500"> <h3 className="text-3xl font-semibold mb-3">Adam Gilchrist</h3> </a>
             <p className="mb-3">
               Adam Gilchrist, a legendary wicketkeeper-batter, rounds off our
               top five century scorers in Australian ODI history with 16
