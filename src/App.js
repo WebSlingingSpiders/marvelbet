@@ -17,6 +17,10 @@ import IrelandUltimate from "./pages/Content/IrelandUltimate";
 import Australia from "./pages/Content/Australia";
 import Batters from "./pages/Content/Batters";
 import BreakingDown from "./pages/Content/BreakingDown";
+import MiaKhalifaSalman from "./pages/Content/MiaKhalifaSalman";
+import MiaHealthAwareness from "./pages/Content/MiaHealthAwareness";
+import MiaEvolution from "./pages/Content/MiaEvolution";
+import MiaSurgical from "./pages/Content/MiaSurgical";
 
 function App() {
   return (
@@ -50,7 +54,27 @@ function App() {
               path="/article/Breaking-Down-Billings-Unbeaten-76-in-the-Invincibles'-Path-to-the-Final"
               element={<BreakingDown />}
             />
+            <Route
+              path="/article/mia-khalifa-express-desire-to-marry-salman-khan"
+              element={<MiaKhalifaSalman />}
+            />
+            <Route
+              path="/article/mia-khalifa-health-awareness"
+              element={<MiaHealthAwareness />}
+            />
+            <Route
+              path="/article/the-evolution-of-mia-khalifa"
+              element={<MiaEvolution />}
+            />
+            <Route
+              path="/article/mia-surgical-transformation"
+              element={<MiaSurgical />}
+            />
+
           </Route>
+
+
+
         </Routes>
       </Router>
     </div>
