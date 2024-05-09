@@ -78,7 +78,7 @@ const WcMarvelbet = () => {
           <BreadCrumbs />
 
           <div className="article-content">
-            <h2 className="text-2xl text-center pb-2">Welcome to MarvelBet</h2>
+            <p className="text-2xl text-center pb-2">Welcome to MarvelBet</p>
             <h1 className="text-4xl text-center font-semibold pb-3">
               Your Ultimate Destination for Thrilling Sports Betting and Live
               Casino Action in India

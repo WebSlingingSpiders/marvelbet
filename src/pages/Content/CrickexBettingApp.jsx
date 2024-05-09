@@ -76,7 +76,7 @@ const CrickexBettingApp = () => {
         <div className="container content_container">
           <BreadCrumbs />
           <div className="article-content">
-            <h2 className="text-2xl text-center pb-2">Welcome to MarvelBet</h2>
+            <p className="text-2xl text-center pb-2">Welcome to MarvelBet</p>
             <h1 className="text-4xl text-center font-semibold pb-3">
               This cricket betting app is getting men all over Asia excited, and
               its name is Baji999!
@@ -93,18 +93,18 @@ const CrickexBettingApp = () => {
               conditions. Now, Baji999 will tell readers how to judge an online
               casino app, which is worth downloading to your mobile phone.
             </p>
-            <p className="mb-1 font-bold">
+            <h2 className="mb-1 font-bold">
               Provide a safe gaming environment to reassure players:
-            </p>
+            </h2>
             <p className="mb-3">
               The security and safety of the online casino app are crucial in
               ensuring that personal and financial information is protected. The
               app should use the latest encryption technology to safeguard the
               data of the users.
             </p>
-            <p className="mb-1 font-bold">
+            <h3 className="mb-1 font-bold">
               Meet the diverse game needs of players:
-            </p>
+            </h3>
             <p className="mb-3">
               A quality online casino app should offer a wide variety of games
               with high-quality graphics and gameplay. The app should also

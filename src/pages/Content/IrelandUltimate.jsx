@@ -77,7 +77,7 @@ const IrelandUltimate = () => {
         <div className="container content_container">
           <BreadCrumbs />
           <div className="article-content">
-            <h2 className="text-2xl text-center pb-2">Welcome to MarvelBet</h2>
+            <p className="text-2xl text-center pb-2">Welcome to MarvelBet</p>
             <h1 className="text-4xl text-center font-semibold pb-3">
               Ireland&apos;s Ultimate Test: Can They Upset India in the 3rd T20
             </h1>
@@ -103,9 +103,10 @@ const IrelandUltimate = () => {
               Jasprit Bumrah, and Ravi Bishnoi that stole the spotlight with
               their devastating performance, each scalping two wickets apiece.
             </p>
-            <p className="text-lg font-semibold">
-              Andy Balbirnie&apos;s Heroic Stand
-            </p>
+
+            <h2 className="text-lg font-semibold">
+            <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700">  Andy Balbirnie&apos;s Heroic Stand</a>
+            </h2>
             <p className="mb-3">
               Ireland&apos;s fight was personified by the determined Andy
               Balbirnie, who emerged as a lone warrior on the field. His

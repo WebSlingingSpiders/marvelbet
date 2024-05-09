@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.marvel365bet.com/sitemap/sitemap-index.xml
+Sitemap: https://www.marvel365bet.com/sitemap.xml
 Host: https://www.marvel365bet.com

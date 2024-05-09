@@ -14,6 +14,11 @@ const ArticleMain = () => {
         <link rel="canonical" href="https://www.marvel365bet.com/article"/>
         <link rel="sitemap" type="xml" title="MarvelBet Online Cricket Bet Articles" href="https://www.marvel365bet.com/sitemap.xml"/>
         <meta name="author" content="MarvelBet Online Cricket Bet Articles"/>
+        <meta name="robots" content="all"/>
+        <meta name="spiders" content="all"/>
+        <meta name="webcrawlers" content="all"/>
+        <meta name="googlebot" content="index, follow"/>
+        <meta name="bingbot" content="index, follow"></meta>
         <meta name="copyright" content="MarvelBet Online Cricket Bet Articles 2024"/>
         <meta property="og:locale" content="en-BD"/>
         <meta property="og:type" content="website"/>

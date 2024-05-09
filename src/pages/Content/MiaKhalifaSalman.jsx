@@ -78,7 +78,7 @@ const MiaKhalifaSalman = () => {
                 <div className="container content_container">
                     <BreadCrumbs />
                     <div className="article-content">
-                        <h2 className="text-2xl text-center pb-2">Welcome to MarvelBet</h2>
+                        <p className="text-2xl text-center pb-2">Welcome to MarvelBet</p>
                         <h1 className="text-4xl text-center font-semibold pb-3">
                             Breaking News: Mia Khalifa Expresses Desire to Marry Salman Khan
                         </h1>
@@ -96,9 +96,9 @@ const MiaKhalifaSalman = () => {
 
                         <div className="pt-4">
 
-                            <p className="text-[24px] font-semibold">
+                            <h2 className="text-[24px] font-semibold">
                                 <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700">  Title: Porn Star Mia Khalifa to Join BJP if Party Wins Election 2024</a>
-                            </p>
+                            </h2>
                             <p className="mb-3">
                                 Unexpectedly, adult film star Mia Khalifa has said that she will join the Bharatiya Janata Party (BJP) in the event that the party wins the next elections in 2024. In a recent interview, Khalifa—who has always been outspoken about her interest in Indian politics and social issues—made the discovery. Thanks to her views on numerous political situations in India and her active participation with Indian social media users, speculation about Khalifa's possible foray into Indian politics has been common in recent months. Her announcement of her support for the BJP, however, has taken many people off guard. "I have been following the political landscape in India closely, and I believe that the BJP's vision aligns with my own values and beliefs," Khalifa said. "If the BJP wins the 2024 elections, I am prepared to join the party and contribute to its agenda of development and progress."
                             </p>
@@ -109,9 +109,9 @@ const MiaKhalifaSalman = () => {
                         </div>
 
                         <div className="pt-4">
-                            <p className="text-[24px] font-semibold">
+                            <h3 className="text-[24px] font-semibold">
                                 <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> JTitle: Porn Star Mia Khalifa Expresses Interest in Owning Cricket Team in IPL 2025</a>
-                            </p>
+                            </h3>
                             <p className="mb-3">
                                 Mia Khalifa, a social media star and pornographic film actress, has stated that she wants to own a franchise in the Indian Premier League (IPL) 2025 in order to pursue her dream of being a cricket owner. Famous for her candid remarks and frequent participation on several social media sites, Khalifa used Twitter to express her goals. "I've always been a huge cricket fan, and the IPL has been a spectacle that I've admired for years," Khalifa said in a series of tweets. To play a major role in it would be a dream come true. I'm prepared to take on the responsibility of managing a team and advancing the sport." Cricket lovers and IPL fans were intrigued and excited by the announcement. Although Khalifa's history in the adult entertainment sector may cause some people to take notice, she has made no secret of her passion for sports and charity.
                             </p>

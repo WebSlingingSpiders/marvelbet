@@ -78,7 +78,7 @@ const MiaHealthAwareness = () => {
                 <div className="container content_container">
                     <BreadCrumbs />
                     <div className="article-content">
-                        <h2 className="text-2xl text-center pb-2">Welcome to MarvelBet</h2>
+                        <p className="text-2xl text-center pb-2">Welcome to MarvelBet</p>
                         <h1 className="text-4xl text-center font-semibold pb-3">
                             Mia Khalifa: An Unlikely Champion for Sexual Health Awareness
                         </h1>
@@ -93,9 +93,9 @@ const MiaHealthAwareness = () => {
 
                         <div className="pt-4">
 
-                            <p className="text-[24px] font-semibold">
+                            <h2 className="text-[24px] font-semibold">
                                 <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700">From Adult Entertainment to Activism: A Shifting Narrative</a>
-                            </p>
+                            </h2>
                             <p className="mb-3">
                                 Mia Khalifa's brief stint in adult entertainment (2014-2015) propelled her into the global spotlight, often against her will. After leaving the industry, she began reclaiming her narrative and using her platform to advocate for various causes. Sexual health awareness became a prominent focus, surprising many due to her background.
                             </p>
@@ -105,9 +105,9 @@ const MiaHealthAwareness = () => {
                         </div>
 
                         <div className='py-4'>
-                            <p className="text-[28px] font-semibold">
+                            <h3 className="text-[28px] font-semibold">
                                 <a href="https://six6s6.com/af/GNp0dr3s/blackhat" className="hover:text-red-700"> Why Sexual Health Awareness?</a>
-                            </p>
+                            </h3>
                             <p className='leading-[28px] pt-2'>
                                 There's no official statement from Mia Khalifa on why she champions sexual health awareness. However, some possible reasons can be gleaned from her experiences and public statements.
                             </p>
