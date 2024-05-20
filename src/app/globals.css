@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Tahoma, "PingFang SC",
+    "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei",
+    sans-serif !important;
+  background: #222;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.chatbot-wrapp {
+  position: fixed;
+  /* bo */
+  bottom: 15px;
+  z-index: 100;
+  right: 10px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.articleContent {
+  .no-hover-link {
+    color: #ef4444;
+  }
+
+  .articleTitle {
+    font-size: 2.25rem; /* 36px */
+    line-height: 2.5rem; /* 40px */
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 0.75rem; /* 12px */
+  }
+
+  p {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    line-height: 1.5;
+    letter-spacing: 0.0375em;
+  }
+
+  .first {
+    letter-spacing: 0.0375em;
+    line-height: 1.5;
+    text-align: center;
+  }
+
+  .description {
+    @media (min-width: 768px) {
+      margin-left: 0;
+      margin-right: 0;
+    }
+    margin-left: 0.5rem; /* 8px */
+    margin-right: 0.5rem; /* 8px */
+  }
+
+  h2 {
+    font-size: 1.5rem; /* 24px */
+    line-height: 2rem; /* 32px */
+    font-weight: 700;
+  }
+  h6 {
+    font-size: 1rem; /* 16px */
+    line-height: 1.5rem; /* 24px */
+    font-weight: 600;
+  }
+
+  .hover-link:hover {
+    color: #ef4444;
+  }
+
+  ul {
+    padding-bottom: 2.25rem; /* 36px */
+  }
+
+  ul li {
+    margin-left: 3.5rem; /* 56px */
+    list-style-type: disc;
+    padding: 3px;
+    letter-spacing: 0.5px;
+  }
+
+  ul li strong {
+    font-size: 1.125rem; /* 18px */
+    line-height: 1.75rem; /* 28px */
+  }
+}
+
+.truncate-height {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  max-height: 8em; /* Adjust the height as needed */
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.sideBtn {
+  background: #d71219;
+  cursor: pointer;
+  position: fixed;
+  z-index: 100;
+  border: 0;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6);
+  padding: 10px 5px;
+  right: 0;
+}

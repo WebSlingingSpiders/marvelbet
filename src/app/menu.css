@@ -1,0 +1,8 @@
+.border-nav {
+  background-color: #fff;
+  border: 1px solid #f7f7f7;
+  box-shadow: 0 0 3px rgba(9, 13, 26, 0.4);
+  /* display: inline-block; */
+  height: 20px;
+  /* margin: 10px; */
+}
