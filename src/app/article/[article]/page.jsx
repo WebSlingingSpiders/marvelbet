@@ -94,5 +94,5 @@ export default async function Page({ params }) {
     </div>
   );
 
-  return <div>padasda</div>;
+  // return <div>padasda</div>;
 }
