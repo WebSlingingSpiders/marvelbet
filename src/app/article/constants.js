@@ -16,7 +16,7 @@ const fetchData = async () => {
 
   const query = gql`
     query articleCardData {
-      articleCards {
+      articleCards(first: 100) {
         date
         slug
         stage

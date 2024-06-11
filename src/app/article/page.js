@@ -14,6 +14,7 @@ const fetchDataAndLog = async () => {
 
 const Page = async () => {
   const articles = await fetchDataAndLog();
+  console.log(articles);
 
   return (
     <div className="container mx-auto">
