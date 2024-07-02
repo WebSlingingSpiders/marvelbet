@@ -7,5 +7,5 @@ export const navMenu = [
   { label: "Table", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
   { label: "Lottery", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
   { label: "Promotions", link: "https://six6s6.com/af/GNp0dr3s/blackhat" },
-  { label: "Articles", link: "/article" },
+  { label: "Article", link: "/article" },
 ];
