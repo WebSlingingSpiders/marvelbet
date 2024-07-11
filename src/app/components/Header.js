@@ -59,7 +59,7 @@ const Header = () => {
       <header className="mx-5 md:mx-0 ">
         <div className="container mx-auto">
           <div className="my-5 flex md:justify-between flex-wrap justify-center ">
-            <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
+            <a href="/">
               <Image
                 src={Logo}
                 className="bg-no-repeat md:h-12 md:w-36 my-3 md:my-0"
@@ -100,7 +100,7 @@ const Header = () => {
             <ul className="flex justify-evenly flex-wrap list-none text-lg items-center">
               <div className="h-full text-white flex justify-center align-center">
                 <li className=" flex justify-center ">
-                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
+                  <a href="/">
                     <svg
                       fill="#fff"
                       viewBox="0 0 512 512"

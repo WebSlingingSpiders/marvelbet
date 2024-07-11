@@ -17,6 +17,7 @@ import Payment5 from "../assets/img/pay21.png";
 
 import LogoMarvel from "../assets/img/logo.png";
 import { Grid } from "swiper/modules";
+import Link from "next/link";
 
 const Footer = () => {
   const SafeLogos = [Safe1, Safe2, Safe3];
@@ -36,7 +37,7 @@ const Footer = () => {
               <h5 className="text-sm text-[#999]">
                 Have a question? Speak to our agent online.
               </h5>
-              <a href="https://six6s6.com/af/GNp0dr3s/blackhat">Contact CS</a>
+              <a href="https://t.me/customrsservic">Contact CS</a>
             </div>
           </div>
           <div className="flex text-white">
@@ -48,7 +49,7 @@ const Footer = () => {
             <div className="text-wrap leading-9">
               <h1 className="">New Member Guide</h1>
               <h5 className="text-sm text-[#999]">5 mins guide</h5>
-              <a href="https://six6s6.com/af/GNp0dr3s/blackhat">Check now</a>
+              <a href="/">Check now</a>
             </div>
           </div>
           <div className="flex text-white">
@@ -62,7 +63,7 @@ const Footer = () => {
               <h5 className="text-sm text-[#999]">
                 Watch worldwide live broadcast
               </h5>
-              <a href="https://six6s6.com/af/GNp0dr3s/blackhat"> Watch Now</a>
+              <a href="/"> Watch Now</a>
             </div>
           </div>
           <div className="flex text-white">
@@ -84,24 +85,30 @@ const Footer = () => {
           <div className="flex items-center">
             <div className="text-wrap">
               <h5 className="text-sm pb-4 text-[#999]">Responsible Gaming</h5>
-              {SafeLogos.map((logos, index) => (
-                <a className="inline-block mr-5" href="" key={index}>
-                  <Image className="saturate-0" src={logos} alt="safes"></Image>
-                </a>
-              ))}
+              <div className="flex  space-x-2">
+                {SafeLogos.map((logos, index) => (
+                  <div key={index}>
+                    <Image
+                      className="saturate-0"
+                      src={logos}
+                      alt="safes"
+                    ></Image>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
           <div className="flex items-center col-span-2">
             <div className="text-wrap">
               <h5 className="text-sm pb-4 text-[#999]">Payment Methods</h5>
               {Payments.map((payments, index) => (
-                <a className="inline-block mr-5" href="" key={index}>
+                <div className="inline-block mr-5" key={index}>
                   <Image
                     className="saturate-0"
                     src={payments}
                     alt="safes"
                   ></Image>
-                </a>
+                </div>
               ))}
             </div>
           </div>
@@ -109,9 +116,9 @@ const Footer = () => {
             <div className="text-wrap">
               <h5 className="text-sm pb-4 text-[#999]">Community Websites</h5>
               {SafeLogos.map((logos, index) => (
-                <a className="inline-block mr-5" href="" key={index}>
+                <div className="inline-block mr-5" key={index}>
                   <Image className="saturate-0" src={logos} alt="safes"></Image>
-                </a>
+                </div>
               ))}
             </div>
           </div>
@@ -119,31 +126,32 @@ const Footer = () => {
         <div className="pt-6">
           <div className="grid mx-3 md:mx-0 grid-cols-1 md:grid-cols-2 ">
             <div className="flex justify-center md:justify-start ">
-              <Image
-                src={LogoMarvel}
-                width={150}
-                height={50}
-                alt="marvellogo"
-              ></Image>
+              <Link href="/">
+                <Image
+                  src={LogoMarvel}
+                  width={150}
+                  height={50}
+                  alt="marvellogo"
+                ></Image>
+              </Link>
             </div>
             <div className="flex text-white flex-col mt-10 md:mt-0 items-center md:items-end">
               <div className="flex justify-end">
                 <div className=" border-r-2 px-2">
-                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
-                    Affiliate
-                  </a>
+                  <a href="/">Affiliate</a>
                 </div>
                 <div className=" border-r-2 px-2">
-                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat">
-                    Responsible Gaming
-                  </a>
+                  <a href="/">Responsible Gaming</a>
                 </div>
                 <div className=" border-r-2 px-2">
-                  <a href="https://six6s6.com/af/GNp0dr3s/blackhat">About Us</a>
+                  <a href="/">About Us</a>
                 </div>
               </div>
               <div className="flex justify-end text-[#999] text-sm ">
-                <p>© 2023 MarvelBet Copyrights. All Rights Reserved</p>
+                <p>
+                  © 2023 <Link href="/"> MarvelBet </Link> Copyrights. All
+                  Rights Reserved
+                </p>
               </div>
             </div>
           </div>
