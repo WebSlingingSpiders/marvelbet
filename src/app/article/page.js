@@ -22,7 +22,7 @@ export const metadata = {
         height: 630,
         alt: "news",
         secure_url: "/articles-og.jpg",
-        type: "image/jpeg",
+        type: "image/jpg",
       },
     ],
   },

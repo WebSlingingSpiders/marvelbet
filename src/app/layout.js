@@ -28,12 +28,12 @@ export const metadata = {
     url: "/",
     images: [
       {
-        url: "/home-og.jpeg",
+        url: "/home-og.jpg",
         width: 1200,
         height: 630,
-        alt: "MarvelBet",
-        secure_url: "/home-og.jpeg",
-        type: "image/jpeg",
+        alt: "MarvelBet: Next Js",
+        secure_url: "/home-og.jpg",
+        type: "image/jpg",
       },
     ],
   },
