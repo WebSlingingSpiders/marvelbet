@@ -13,7 +13,30 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "MarvelBet: Next Js",
-  description: "Converted MarvelBet to NextJS",
+  description:
+    "Attention cricket fans! Bet on cricket with the best odds at Marvel bet casino and join the ranks of winners! Play cricket every day and earn huge bonuses!",
+  keywords: "Cricket bonuses,Cricket betting,Cricket odds",
+  alternates: {
+    canonical: "https://www.marvel365bet.com/",
+  },
+  openGraph: {
+    title: "MarvelBet: Next Js",
+    description:
+      "Attention cricket fans! Bet on cricket with the best odds at Marvel bet casino and join the ranks of winners! Play cricket every day and earn huge bonuses!",
+    locale: "Language-Country",
+    type: "website",
+    url: "/",
+    images: [
+      {
+        url: "/home-og.jpeg",
+        width: 1200,
+        height: 630,
+        alt: "MarvelBet",
+        secure_url: "/home-og.jpeg",
+        type: "image/jpeg",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({ children }) {

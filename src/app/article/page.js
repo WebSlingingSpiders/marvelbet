@@ -1,6 +1,32 @@
 import React from "react";
 import Image from "next/image";
 import ArticleData from "./constants";
+export const metadata = {
+  title: "MarvelBet: Next Js",
+  description:
+    "Attention cricket fans! Bet on cricket with the best odds at Marvel bet casino and join the ranks of winners! Play cricket every day and earn huge bonuses!",
+  alternates: {
+    canonical: "https://www.marvel365bet.com/",
+  },
+  openGraph: {
+    title: "MarvelBet: Next Js",
+    description:
+      "Attention cricket fans! Bet on cricket with the best odds at Marvel bet casino and join the ranks of winners! Play cricket every day and earn huge bonuses!",
+    locale: "Language-Country",
+    type: "website",
+    url: "/",
+    images: [
+      {
+        url: "/articles-og.jpg",
+        width: 1200,
+        height: 630,
+        alt: "news",
+        secure_url: "/articles-og.jpg",
+        type: "image/jpeg",
+      },
+    ],
+  },
+};
 
 const fetchDataAndLog = async () => {
   try {
