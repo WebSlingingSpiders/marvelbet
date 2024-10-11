@@ -23,7 +23,7 @@ export const metadata = {
     title: "MarvelBet: Next Js",
     description:
       "Attention cricket fans! Bet on cricket with the best odds at Marvel bet casino and join the ranks of winners! Play cricket every day and earn huge bonuses!",
-    locale: "Language-Country",
+    locale: "en_BD",
     type: "website",
     url: "/",
     images: [
@@ -32,7 +32,6 @@ export const metadata = {
         width: 1200,
         height: 630,
         alt: "MarvelBet: Next Js",
-        secure_url: "/home-og.jpg",
         type: "image/jpg",
       },
     ],
